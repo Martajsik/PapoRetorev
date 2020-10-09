@@ -16,6 +16,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
+#imagem-covid{
+    width:100%;
+}
 
 @media(max-width:500px){
     .quem-somos{
