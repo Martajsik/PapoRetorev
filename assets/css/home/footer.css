@@ -1,0 +1,37 @@
+.footer{
+    background-color: #ffc717;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+}
+.midias-sociais{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+}
+@media(max-width:1000px){
+    .formulario iframe{
+        width: 700px;
+    }
+}
+@media(max-width:700px){
+    .formulario iframe{
+        width: 500px;
+    }
+}
+@media(max-width:500px){
+    .formulario iframe{
+        width: 300px;
+    }
+}

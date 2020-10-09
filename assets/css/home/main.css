@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+}
+.logo{
+    width: 200px;
+}
+.banner-direito{
+    background-image: url(../../img/ladoDireito.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.banner-esquerdo{
+    background-image: url(../../img/ladoEsquerdo.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.quem-somos{
+    padding: 20px;
+    width: 500px;
+}
+.segundo-texto{
+    padding: 20px;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.segundo-texto div{
+    width: 500px;
+    margin-top: 200px;
+}
