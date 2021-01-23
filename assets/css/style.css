@@ -43,3 +43,9 @@ html{
         margin-top: 200px;
     }
 }
+.mt-auto{
+    margin: auto;
+} .w-50{
+    width: 50% !important;
+    padding: 20px;
+}
