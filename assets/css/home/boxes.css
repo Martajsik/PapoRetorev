@@ -10,6 +10,7 @@
     height: auto;
     flex-direction: column;
     width: 100%;
+    overflow-x: hidden;
 }
 
 .box_info img{
@@ -88,6 +89,7 @@
     .details::-webkit-scrollbar-corner {
         background-color: #cecece;
     }
+
 }
 
 

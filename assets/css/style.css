@@ -46,6 +46,6 @@ html{
 .mt-auto{
     margin: auto;
 } .w-50{
-    width: 50% !important;
+    width: 100% !important;
     padding: 20px;
 }
